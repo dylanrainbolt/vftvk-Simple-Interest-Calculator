@@ -1,6 +1,6 @@
 body {background-color:white;}
 h1{color:gray;}
-table_vals.center{
+.table_vals{
     margin-left: auto; 
     margin-right: auto;
 }
