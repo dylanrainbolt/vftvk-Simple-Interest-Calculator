@@ -4,6 +4,9 @@ function updateTextInput(val) {
 
 function compute(){
   var p = document.getElementById("principal").value;
+  if (p <= 0){
+      alert("Value must be a positive number.")
+  }
   //alert(p)
   var r = document.getElementById("rate").value;
   //alert(r)
