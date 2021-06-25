@@ -1,6 +1,7 @@
 body {background-color:white;}
-body.center_button {
-    text-align: center;
+
+.button_div{
+  text-align: center;
 }
 
 h1{color:gray;}
@@ -8,6 +9,3 @@ table.center{
     margin-left: auto; 
     margin-right: auto;
 }
-
-
-
